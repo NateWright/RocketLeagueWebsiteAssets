@@ -1,0 +1,5 @@
+{
+    "regionalName": "Fall Open",
+    "csvURL": "https://raw.githubusercontent.com/NateWright/RocketLeagueWebsiteAssets/master/brackets/RLCS2022-2023/na/fall/regional1.csv",
+    "format": "/swiss-to-single-elimination"
+}
