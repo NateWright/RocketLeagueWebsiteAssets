@@ -7,4 +7,3 @@ with open('regional1.csv', newline='') as csvfile:
         f = open(name+'.json', "w")
         f.write("{\"team\": \"" + row[0] +"\", \"url\": \""+ row[1][1:]+ "\"}")
         f.close()
-        break
