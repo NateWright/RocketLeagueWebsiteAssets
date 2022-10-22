@@ -8,10 +8,5 @@
         "regionalName": "Fall Cup",
         "csvURL": "brackets/RLCS2022-2023/na/fall/regional2.csv",
         "format": "/swiss-to-single-elimination"
-    },
-    {
-        "regionalName": "Fall Cup",
-        "csvURL": "https://raw.githubusercontent.com/NateWright/RocketLeagueWebsiteAssets/master/brackets/RLCS2022-2023/na/fall/regional2.csv",
-        "format": "/swiss-to-single-elimination"
     }
 ]
