@@ -3,5 +3,10 @@
         "regionalName": "Fall Open",
         "csvURL": "brackets/RLCS2022-2023/eu/fall/regional1.csv",
         "format": "/swiss-to-single-elimination"
+    },
+    {
+        "regionalName": "Fall Cup",
+        "csvURL": "brackets/RLCS2022-2023/eu/fall/regional2.csv",
+        "format": "/swiss-to-single-elimination"
     }
 ]
